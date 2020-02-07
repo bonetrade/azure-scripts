@@ -6,3 +6,9 @@ These scripts are for working with local files. When it asks you for the file pa
 
 'handwriting' will recognize handwriting in images.
 'tags' will identify the likely tags that describe an image.
+
+Python 3. 
+
+Make sure to get the azure sdk first, with
+
+`$ pip install --upgrade azure-cognitiveservices-vision-computervision`
