@@ -4,7 +4,7 @@ See the [section on getting set up with azure](https://shawngraham.github.io/dhm
 
 These scripts are for working with local files. When it asks you for the file path, make sure to have the trailing slash. Writes results to a txt file, and to the terminal. 
 
-'handwriting' will recognize handwriting in images.
+'handwriting' will recognize handwriting and print in images.
 'tags' will identify the likely tags that describe an image.
 
 Python 3. 
